@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/santigamedev.com/static/css/main.63772e6d.css",
+    "main.js": "/santigamedev.com/static/js/main.0f838200.js",
+    "static/media/dots-bg.svg": "/santigamedev.com/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
+    "static/media/logo.svg": "/santigamedev.com/static/media/logo.46a6171869b7a4a791e3addf7896cb04.svg",
+    "index.html": "/santigamedev.com/index.html",
+    "main.63772e6d.css.map": "/santigamedev.com/static/css/main.63772e6d.css.map",
+    "main.0f838200.js.map": "/santigamedev.com/static/js/main.0f838200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63772e6d.css",
+    "static/js/main.0f838200.js"
+  ]
+}
