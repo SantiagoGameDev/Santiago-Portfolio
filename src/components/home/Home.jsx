@@ -1,6 +1,7 @@
 import React from "react";
 import "./home.css";
 import Santiago from "../../assets/avatar-1.svg";
+import { useState, useEffect } from "react";
 
 const Home = () => {
   const [loopNum, setLoopNum] = useState(0);
