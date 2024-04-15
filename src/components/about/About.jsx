@@ -27,7 +27,7 @@ const About = () => {
             <div className="skills_data">
               <div className="skills__titles">
                 <h3 className="skills__name">Unity Engine</h3>
-                <span className="skills_number">80%</span>
+                <span className="skills__number">90%</span>
               </div>
               <div className="skills__bar">
                 <span className="skills__percentage unity"></span>
@@ -37,7 +37,7 @@ const About = () => {
             <div className="skills_data">
               <div className="skills__titles">
                 <h3 className="skills__name">C# Programming</h3>
-                <span className="skills_number">85%</span>
+                <span className="skills__number">85%</span>
               </div>
               <div className="skills__bar">
                 <span className="skills__percentage programming"></span>
@@ -47,7 +47,7 @@ const About = () => {
             <div className="skills_data">
               <div className="skills__titles">
                 <h3 className="skills__name">3D Modelling</h3>
-                <span className="skills_number">70%</span>
+                <span className="skills__number">70%</span>
               </div>
               <div className="skills__bar">
                 <span className="skills__percentage modelling"></span>
