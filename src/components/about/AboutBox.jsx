@@ -7,8 +7,8 @@ const AboutBox = () => {
         <i class="fa-solid fa-gamepad fa-2xl"></i>
 
         <div>
-          <h3 className="about__title">3</h3>
-          <span className="about__subtitle">Games Made</span>
+          <h3 className="about__title">Games Made</h3>
+          <span className="about__subtitle">3</span>
         </div>
       </div>
 
@@ -17,7 +17,7 @@ const AboutBox = () => {
 
         <div>
           <h3 className="about__title">Lines of Code Written</h3>
-          <span className="about__subtitle icon-code">6,294</span>
+          <span className="about__subtitle">6,294</span>
         </div>
       </div>
 

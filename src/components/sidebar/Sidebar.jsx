@@ -25,7 +25,7 @@ const Sidebar = () => {
 
             <li className="nav__item">
               <a href="#skills" className="nav__link">
-                <i className="icon-game-controller"></i>
+                <i className="icon-cup"></i>
               </a>
             </li>
 

@@ -12,6 +12,10 @@ const HeaderSocials = () => {
       </a>
 
       <a href="" className="home__social-link" target="_blank">
+      <i class="fa-brands fa-linkedin"></i>
+      </a>
+      
+      <a href="" className="home__social-link" target="_blank">
       <i class="fa-brands fa-instagram"></i>
       </a>
 

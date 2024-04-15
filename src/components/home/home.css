@@ -16,6 +16,9 @@
   scale: 100%;
   width: 50%;
   height: 50%;
+  border-color: #454360;
+  border-style:double;
+  border-width: 1rem;
   border-radius: 50%;
 }
 
@@ -104,56 +107,67 @@
 }
 
 .s1{
+    scale: 150%;
     left: 110%;
     top: 10%;
 }
 
 .s2{
+    scale: 150%;
     left: 25%;
     top: 15%;
 }
 
 .s3{
+    scale: 150%;
     left: -55%;
     top: 13%;
 }
 
 .s4{
+    scale: 150%;
     left: -35%;
     top: 35%;
 }
 
 .s5{
+    scale: 150%;
     left: 0%;
     top: 5%;
 }
 
 .s6{
+    scale: 150%;
     left: 75%;
     top: 26%;
 }
 
 .s7{
+    scale: 150%;
     left: 0%;
     top: 55%;
 }
 
 .s8{
+    scale: 150%;
     left: 145%;
     top: 50%;
 }
 
 .s9{
+    scale: 150%;
     left: 110%;
     top: 65%;
 }
 
 .s10{
+    scale: 150%;
     left: -50%;
     top: 80%;
 }
 
 .s11{
+    scale: 150%;
     left: 50%;
     top: 80%;
 }

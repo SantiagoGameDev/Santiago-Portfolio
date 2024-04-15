@@ -5,11 +5,11 @@
 :root {
   /*======== Colours =======*/
   /*======== Colour Mode HSL(hue, saturation, lightness) =======*/
-  --first-colour: hsl(353, 100%, 65%);
-  --title-colour: hsl (244, 24%, 26%);
-  --text-colour: hsl (244, 16%, 43%);
-  --body-colour: hsl (244, 60%, 98%);
-  --container-colour: #fff;
+  --first-color: hsl(353, 100%, 65%);
+  --title-color: hsl (244, 24%, 26%);
+  --text-color: hsl (244, 16%, 43%);
+  --body-color: hsl (244, 60%, 98%);
+  --container-color: #fff;
 
   /*======== Font and Typography =======*/
   /*.5rem = 8px | 1rem = 16px....*/
@@ -65,15 +65,15 @@ textarea {
 }
 
 body {
-  background-color: var(--body-colour);
+  background-color: var(--body-color);
   line-height: 1.7;
-  color: var(--text-colour);
+  color: var(--text-color);
 }
 
 h1,
 h2,
 h3 {
-  color: var(--title-colour);
+  color: var(--title-color);
   font-weight: var(--font-semibold);
   line-height: 1.2;
 }
@@ -142,7 +142,7 @@ img {
   border: 1px solid transparent;
   color: #fff;
   display: inline-block;
-  background-color: var(--first-colour);
+  background-color: var(--first-color);
   font-weight: var(--font-bold);
 }
 
