@@ -11,11 +11,15 @@ const HeaderSocials = () => {
       <i class="fa-brands fa-artstation"></i>
       </a>
 
-      <a href="" className="home__social-link" target="_blank">
+      <a href="https://www.linkedin.com/in/santiago-restrepo-4076991bb/" className="home__social-link" target="_blank">
       <i class="fa-brands fa-linkedin"></i>
       </a>
       
-      <a href="" className="home__social-link" target="_blank">
+      <a href="https://steamcommunity.com/id/Average_Jim/" className="home__social-link" target="_blank">
+      <i class="fa-brands fa-steam"></i>
+      </a>
+      
+      <a href="https://www.instagram.com/santiago._.restrepo/" className="home__social-link" target="_blank">
       <i class="fa-brands fa-instagram"></i>
       </a>
 

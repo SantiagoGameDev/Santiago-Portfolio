@@ -12,7 +12,7 @@ const Portfolio = () => {
   };
 
   return (
-    <section className="project container section" id="project">
+    <section className="project container section" id="portfolio">
       <h2 className="section__title">Projects</h2>
 
       <div className="project__filters">
@@ -57,7 +57,7 @@ const Portfolio = () => {
               </div>
               <span className="project__category">{category}</span>
               <h3 className="project__title">{title}</h3>
-              <a href="#" className="project__button">
+              <a href="#portfolio" className="project__button">
                 <i className="icon-link project__button-icon"></i>
               </a>
             </div>

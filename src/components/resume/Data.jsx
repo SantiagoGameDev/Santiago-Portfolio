@@ -29,7 +29,7 @@ const Data = [
       icon: "icon-briefcase",
       year: "SEP 2023 - APR 2024",
       title: "PRODUCER, TECHNICAL ARTIST",
-      desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
+      desc: "Clash For Crust | Seven Seas Studio",
     },
     {
       id: 5,
@@ -37,7 +37,7 @@ const Data = [
       icon: "icon-briefcase",
       year: "JAN 2024",
       title: "LEAD PROGRAMMER, TECHNICAL ARTIST ",
-      desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
+      desc: "Trippy Hippie | Global Game Jam 2024",
     },
     {
       id: 6,
@@ -45,7 +45,7 @@ const Data = [
       icon: "icon-briefcase",
       year: "APR 2023 - SEP 2023",
       title: "TEAM LEAD, PROGRAMMER ",
-      desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
+      desc: "NDA Project | Raven Rune Interactive",
     },
   ];
   

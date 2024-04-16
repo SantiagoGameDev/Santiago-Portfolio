@@ -1,14 +1,14 @@
-import Project1 from "../../assets/work-1.svg";
-import Project2 from "../../assets/work-2.svg";
-import Project3 from "../../assets/work-3.svg";
-import Project4 from "../../assets/work-4.svg";
-import Project5 from "../../assets/work-5.svg";
-import Project6 from "../../assets/work-6.svg";
-import Project7 from "../../assets/work-1.svg";
-import Project8 from "../../assets/work-1.svg";
-import Project9 from "../../assets/work-1.svg";
-import Project10 from "../../assets/work-1.svg";
-import Project11 from "../../assets/work-1.svg";
+import Project1 from "../../assets/LOGO 1.png";
+import Project2 from "../../assets/LOGO 1.png";
+import Project3 from "../../assets/LOGO 1.png";
+import Project4 from "../../assets/LOGO 1.png";
+import Project5 from "../../assets/LOGO 1.png";
+import Project6 from "../../assets/LOGO 1.png";
+import Project7 from "../../assets/LOGO 1.png";
+import Project8 from "../../assets/LOGO 1.png";
+import Project9 from "../../assets/LOGO 1.png";
+import Project10 from "../../assets/LOGO 1.png";
+import Project11 from "../../assets/LOGO 1.png";
 
 const Menu = [
   {

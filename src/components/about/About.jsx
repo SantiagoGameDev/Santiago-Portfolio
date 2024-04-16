@@ -2,6 +2,7 @@ import React from "react";
 import "./about.css";
 import Image from "../../assets/ProgrammerIcon.png";
 import AboutBox from "./AboutBox";
+import Resume from "../../assets/SantiagoResume.pdf"
 
 const About = () => {
   return (
@@ -18,9 +19,9 @@ const About = () => {
               blending programming and art. As a technical artist and
               programmer, I bring worlds to life through code and visuals."
             </p>
-            <a href="" className="btn">
+            <a href={Resume} download="SantiagoResume" className="btn">
               {" "}
-              Download Resume
+              Download My Resume
             </a>
           </div>
           <div className="about__skills grid">

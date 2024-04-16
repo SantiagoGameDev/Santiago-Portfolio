@@ -24,7 +24,7 @@ const data = [
     image: Image3,
     title: "Modelling",
     description:
-      "Very experienced with 3D modelling .",
+      "Very experienced with 3D modelling. Varous modelling techniques such as hard surface and sculpting. Familiar with high poly to low poly workflow",
   },
 ];
 
