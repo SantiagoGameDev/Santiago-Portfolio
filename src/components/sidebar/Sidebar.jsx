@@ -1,6 +1,6 @@
 import React from "react";
 import "./sidebar.css";
-import Logo from "../../assets/logo.svg";
+import Logo from "../../assets/LOGO 1.png";
 
 const Sidebar = () => {
   return (
@@ -25,7 +25,7 @@ const Sidebar = () => {
 
             <li className="nav__item">
               <a href="#skills" className="nav__link">
-                <i className="icon-cup"></i>
+                <i className="icon-game-controller"></i>
               </a>
             </li>
 

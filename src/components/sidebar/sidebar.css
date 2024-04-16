@@ -13,6 +13,10 @@
   z-index: 10;
 }
 
+.nav__logo{
+  scale: 250%;
+}
+
 .nav__list {
   display: flex;
   flex-direction: column;

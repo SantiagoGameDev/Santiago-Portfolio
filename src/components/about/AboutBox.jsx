@@ -17,7 +17,7 @@ const AboutBox = () => {
 
         <div>
           <h3 className="about__title">Lines of Code Written</h3>
-          <span className="about__subtitle">6,294</span>
+          <span className="about__subtitle">10,000+</span>
         </div>
       </div>
 
