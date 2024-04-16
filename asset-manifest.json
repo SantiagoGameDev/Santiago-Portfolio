@@ -1,26 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3cf71a3.css",
-    "main.js": "/static/js/main.ca731222.js",
+    "main.css": "/static/css/main.5d4c1d52.css",
+    "main.js": "/static/js/main.7b007d1d.js",
     "static/media/SantiagoProfile.png": "/static/media/SantiagoProfile.5ae7ece1f3b300428b98.png",
+    "static/media/SantiagoResume.pdf": "/static/media/SantiagoResume.012662f86a7fb399e7b7.pdf",
     "static/media/LOGO 1.png": "/static/media/LOGO 1.3e0ccb149d0e10c26829.png",
-    "static/media/work-4.svg": "/static/media/work-4.58bc4add25b4ccc6b7a8a58c92d45898.svg",
     "static/media/ProgrammerIcon.png": "/static/media/ProgrammerIcon.69a224519991632b0287.png",
-    "static/media/work-3.svg": "/static/media/work-3.78ab5df87d7f465189c2e19badff2843.svg",
-    "static/media/work-1.svg": "/static/media/work-1.fa91dbeffdfd7406b07a3d16911fc02c.svg",
-    "static/media/work-6.svg": "/static/media/work-6.d0903f5f20dcf5eff26c4f1abeb02344.svg",
-    "static/media/work-5.svg": "/static/media/work-5.4750a3abd9f5b65e60b80499061a419c.svg",
-    "static/media/work-2.svg": "/static/media/work-2.b48df44b27ee7304c0bcf66d58e2f6f2.svg",
     "static/media/Engine.svg": "/static/media/Engine.80c3eafbf5d3978cab8eab140270e2b0.svg",
     "static/media/Model.svg": "/static/media/Model.17dd02b4c8e6eb103e434019d688de6d.svg",
     "static/media/Programming.svg": "/static/media/Programming.ba32fd37735acba3fd12e1494ff2502a.svg",
     "static/media/dots-bg.svg": "/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
     "index.html": "/index.html",
-    "main.c3cf71a3.css.map": "/static/css/main.c3cf71a3.css.map",
-    "main.ca731222.js.map": "/static/js/main.ca731222.js.map"
+    "main.5d4c1d52.css.map": "/static/css/main.5d4c1d52.css.map",
+    "main.7b007d1d.js.map": "/static/js/main.7b007d1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3cf71a3.css",
-    "static/js/main.ca731222.js"
+    "static/css/main.5d4c1d52.css",
+    "static/js/main.7b007d1d.js"
   ]
 }
