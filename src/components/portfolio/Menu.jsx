@@ -5,10 +5,11 @@ import Project4 from "../../assets/LOGO 1.png";
 import Project5 from "../../assets/LOGO 1.png";
 import Project6 from "../../assets/LOGO 1.png";
 import Project7 from "../../assets/LOGO 1.png";
-import Project8 from "../../assets/LOGO 1.png";
-import Project9 from "../../assets/LOGO 1.png";
-import Project10 from "../../assets/LOGO 1.png";
-import Project11 from "../../assets/LOGO 1.png";
+import Project8 from "../../assets/PersonalPortfolioWebsite.png";
+import Project9 from "../../assets/AlexiPortfolio.png";
+import Project10 from "../../assets/PrimitiveArts.png";
+import Project11 from "../../assets/LaCasaDeLaAbuela.png";
+import Project12 from "../../assets/SevenSeasStudio.png";
 
 const Menu = [
   {
@@ -85,6 +86,13 @@ const Menu = [
     id: 11,
     image: Project11,
     title: "La Casa De La Abuela",
+    category: "Web Development",
+  },
+
+  {
+    id: 12,
+    image: Project12,
+    title: "Seven Seas Studio",
     category: "Web Development",
   },
 ];

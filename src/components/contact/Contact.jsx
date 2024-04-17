@@ -28,7 +28,7 @@ const Contact = () => {
           <div className='contact__form-div contact__form-area'>
             <textarea name="" id="" cols="30" rows="10" className='contact__form-input' placeholder='Write your worries away!'></textarea>
           </div>
-          <button className='btn'>Send! Lightspeed!</button>
+          <button className='btn'>Lightspeed!</button>
       </form>
     </section>
   )

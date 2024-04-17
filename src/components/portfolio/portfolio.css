@@ -59,11 +59,15 @@
 
 .project__title {
   color: #fff;
+  background-color: var(--first-color);
   font-size: var(--h3-font-size);
   margin: 0 0 0.98rem;
   padding: 0 1.25rem;
   position: absolute;
   top: 3.75rem;
+  border-radius: 0.98rem;
+  transform: translateX(-300px);
+  transition: 0.3s;
 }
 
 .project__button {
