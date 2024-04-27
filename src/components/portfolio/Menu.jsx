@@ -17,6 +17,7 @@ const Menu = [
     image: Project1,
     title: "Clash For Crust",
     category: "Games",
+    link: "https://store.steampowered.com/app/2899060/Clash_for_Crust/",
   },
 
   {
@@ -24,6 +25,7 @@ const Menu = [
     image: Project2,
     title: "Trippy Hippie",
     category: "Games",
+    link: "https://globalgamejam.org/games/2024/trippy-hippie-8",
   },
 
   {
@@ -31,6 +33,7 @@ const Menu = [
     image: Project3,
     title: "The Lizard Wizard",
     category: "Modelling",
+    link: "",
   },
 
   {
@@ -38,6 +41,7 @@ const Menu = [
     image: Project4,
     title: "Finite State Machine",
     category: "Programming",
+    link: "",
   },
 
   {
@@ -45,6 +49,7 @@ const Menu = [
     image: Project5,
     title: "Procedural Tree Generation Tool",
     category: "Technical Art",
+    link: "",
   },
 
   {
@@ -52,6 +57,7 @@ const Menu = [
     image: Project6,
     title: "Real-Time Toon Shader",
     category: "Shader",
+    link: "",
   },
 
   {
@@ -59,6 +65,7 @@ const Menu = [
     image: Project7,
     title: "Real-Time Water Shader",
     category: "Shader",
+    link: "",
   },
 
   {
@@ -66,6 +73,7 @@ const Menu = [
     image: Project8,
     title: "Portfolio",
     category: "Web Development",
+    link: "",
   },
 
   {
@@ -73,6 +81,7 @@ const Menu = [
     image: Project9,
     title: "Alexi Portfolio",
     category: "Web Development",
+    link: "",
   },
 
   {
@@ -80,6 +89,7 @@ const Menu = [
     image: Project10,
     title: "Primitive Arts",
     category: "Web Development",
+    link: "",
   },
 
   {
@@ -87,6 +97,7 @@ const Menu = [
     image: Project11,
     title: "La Casa De La Abuela",
     category: "Web Development",
+    link: "",
   },
 
   {
@@ -94,6 +105,7 @@ const Menu = [
     image: Project12,
     title: "Seven Seas Studio",
     category: "Web Development",
+    link: "",
   },
 ];
 
