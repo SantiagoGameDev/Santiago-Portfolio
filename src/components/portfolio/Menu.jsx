@@ -73,7 +73,7 @@ const Menu = [
     image: Project8,
     title: "Portfolio",
     category: "Web Development",
-    link: "",
+    link: "https://santigamedev.com/",
   },
 
   {
@@ -81,7 +81,7 @@ const Menu = [
     image: Project9,
     title: "Alexi Portfolio",
     category: "Web Development",
-    link: "",
+    link: "https://lisztalexi.github.io/",
   },
 
   {
@@ -89,7 +89,7 @@ const Menu = [
     image: Project10,
     title: "Primitive Arts",
     category: "Web Development",
-    link: "",
+    link: "https://www.primitivearts.ca/",
   },
 
   {
@@ -97,7 +97,7 @@ const Menu = [
     image: Project11,
     title: "La Casa De La Abuela",
     category: "Web Development",
-    link: "",
+    link: "https://www.lacasadelaabuela.ca/",
   },
 
   {
@@ -105,7 +105,7 @@ const Menu = [
     image: Project12,
     title: "Seven Seas Studio",
     category: "Web Development",
-    link: "",
+    link: "https://sevenseasstudio.xyz/",
   },
 ];
 
